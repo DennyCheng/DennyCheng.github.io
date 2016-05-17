@@ -15,6 +15,7 @@ body{
     margin: 15px;
     transform: rotate(4deg);
     float: right;
+    border-radius: 25%;
 }
 
 header h1{
