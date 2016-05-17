@@ -1,0 +1,49 @@
+body{
+    margin-right: 200px;
+    margin-left: 200px;
+    font-family: Questrial, sans-serif;
+    background-color: #cce6ff;
+}
+
+.profile{
+    height: auto; 
+    width: auto; 
+    max-width: 290px; 
+    max-height: 290px;
+    padding: 1px;
+    border: 1px solid #021a40;
+    margin: 15px;
+    transform: rotate(4deg);
+    float: right;
+}
+
+header h1{
+    text-align:left;
+    padding-top: 23px;
+}
+
+header p{
+    text-align:left;
+}
+
+hr {
+    color: #CCCCCC;	
+}
+
+main h2 {
+	letter-spacing: 1.5px;
+    text-decoration: underline;
+}
+
+.education p{
+	line-height: 15px;
+}
+
+.experience {
+	line-height: 20px;
+}
+
+.experience p{
+	font-weight: bold;
+
+}
